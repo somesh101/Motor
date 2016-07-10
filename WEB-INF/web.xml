@@ -1,0 +1,6 @@
+<web-app>
+<context-param>
+<param-name>name1</param-name>
+<param-value>lalu hates rabari</param-value>
+</context-param>
+</web-app>
